@@ -1,0 +1,26 @@
+{
+  "flow": [
+    {
+      "nodes": [],
+      "edges": [],
+      "viewport": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1
+      },
+      "name": "Demo",
+      "id": "0"
+    },
+    {
+      "name": "Blueprint 1",
+      "nodes": [],
+      "edges": [],
+      "viewport": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1
+      },
+      "id": "R-CKzTG"
+    }
+  ]
+}
